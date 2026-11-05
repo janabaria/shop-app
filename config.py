@@ -1,3 +1,3 @@
 STORE_NAME = "Shop App"
-PRICE = 120
+PRICE = 100
 CURRENCY = "ILS"
